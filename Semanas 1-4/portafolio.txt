@@ -1,0 +1,6 @@
+uml masotas, uml nuevo*
+ejercicios de modelaje uml,*
+ejercicios de implementacion de interfaces.*
+implementacion pruebas de Estructuras de datos varias*
+
+Tarea que no hice*
